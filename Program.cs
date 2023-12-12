@@ -23,5 +23,6 @@ class NameSortingTest
         }
 
         Console.WriteLine($"Total Score: {allNameTotalScore}");
+        Console.ReadKey(); 
     }
 }
