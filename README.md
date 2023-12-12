@@ -1,6 +1,8 @@
 # How To Run
 ## 1. Run Executable
-Excecutable located at `bin/debug/NameSortingTechTest.exe` or https://github.com/up2020072/NameSortingTechTest/blob/main/bin/Debug/NameSortingTechTest.exe
+- Download names text file here https://github.com/up2020072/NameSortingTechTest/blob/main/bin/Debug/names.txt
+- Excecutable located at `bin/debug/NameSortingTechTest.exe` or https://github.com/up2020072/NameSortingTechTest/blob/main/bin/Debug/NameSortingTechTest.exe
+- Run Excecutable
 
 ## 2. Run in Visual Studio
 - Clone repo 
