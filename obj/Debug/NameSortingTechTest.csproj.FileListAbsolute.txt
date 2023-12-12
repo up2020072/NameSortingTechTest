@@ -1,0 +1,8 @@
+C:\Users\George\source\repos\NameSortingTechTest\bin\Debug\NameSortingTechTest.exe.config
+C:\Users\George\source\repos\NameSortingTechTest\bin\Debug\NameSortingTechTest.exe
+C:\Users\George\source\repos\NameSortingTechTest\bin\Debug\NameSortingTechTest.pdb
+C:\Users\George\source\repos\NameSortingTechTest\obj\Debug\NameSortingTechTest.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\NameSortingTechTest\obj\Debug\NameSortingTechTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\George\source\repos\NameSortingTechTest\obj\Debug\NameSortingTechTest.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\NameSortingTechTest\obj\Debug\NameSortingTechTest.exe
+C:\Users\George\source\repos\NameSortingTechTest\obj\Debug\NameSortingTechTest.pdb
