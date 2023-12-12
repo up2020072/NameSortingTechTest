@@ -11,5 +11,5 @@ Run with Ctrl + F5
 Converts an unsorted text file of names into an ordered array; scored based on the alphabetical value for each name.
 
 # Assumptions
-Array positions start at 1 rather than 0
-Alphabetical score starts from A=1, B=2, etc
+* Array positions start at 1 rather than 0
+* Alphabetical score starts from A=1, B=2, etc
