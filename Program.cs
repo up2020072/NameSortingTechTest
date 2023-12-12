@@ -11,7 +11,7 @@ class NameSortingTest
         //reads the text file, then seperates each name into its raw text, and finally places them into a sorted array
         string[] sortedNames = File.ReadAllText(filePath).Split(',').Select(n => n.Trim('"')).OrderBy(n => n).ToArray();
 
-        int nameTotalScore = 0;
+        int allNameTotalScore = 0;
 
         //iterates through each name in the list, calculating its score and adding it to a total, while also outputting each score with its corresponding name
         for (int i = 0; i < sortedNames.Length; i++)
@@ -19,9 +19,9 @@ class NameSortingTest
             //converts the ascii value of each letter in a name into a zero-based index, which is then offset by one to give a normalised value. such as A = 1
             int nameScore = sortedNames[i].Sum(c => c - 'A' + 1) * (i + 1);
             Console.WriteLine(sortedNames[i] + ": " + nameScore);
-            nameTotalScore += nameScore;
+            allNameTotalScore += nameScore;
         }
 
-        Console.WriteLine($"Total Score: {nameTotalScore}");
+        Console.WriteLine($"Total Score: {allNameTotalScore}");
     }
 }
